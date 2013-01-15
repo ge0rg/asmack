@@ -134,10 +134,3 @@
              }
  
              // Delete the queue contents (hopefully nothing is left).
-@@ -314,4 +335,4 @@ class PacketWriter {
-             }
-         }
-     }
--}
-\ No newline at end of file
-+}
